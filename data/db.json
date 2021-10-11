@@ -1,0 +1,94 @@
+{
+    "products": [
+      { "id": 1, 
+        "title": "Brownies", 
+        "price": 35, 
+        "image": "../images/brownies.jpg",
+        "description":"Deliciosos y suves brownies con trozos de nuez" 
+    },
+    { "id": 2, 
+        "title": "Cupcake con almendra", 
+        "price": 25, 
+        "image": "../images/cupcake-almendra.jpg",
+        "description":"Cupcakes de vainilla, cubiertos de almendra bañados con chocolate" 
+    },
+    { "id": 3, 
+        "title": "Cupcake decorado", 
+        "price": 20, 
+        "image": "../images/cupcake-decorado3.jpg",
+        "description":"Cupcake de vainilla, cubierto de betun con chispaz de colores" 
+    },
+    { "id": 4, 
+        "title": "Fruit Cake", 
+        "price": 250, 
+        "image": "../images/fruit-cake.jpg",
+        "description":"Pastel con fruta confitada, frutos secos y especias" 
+    },
+    { "id": 5, 
+        "title": "Galletas de avena", 
+        "price": 50, 
+        "image": "../images/galletas.jpg",
+        "description":"Galletas de avena" 
+    },
+    { "id": 6, 
+        "title": "Manzanas cubiertas", 
+        "price": 25, 
+        "image": "../images/manzanas-cubiertas.jpg",
+        "description":"Manzanas cubiertas con chamoy y miguelito" 
+    },
+    { "id": 7, 
+        "title": "Panque", 
+        "price": 200, 
+        "image": "../images/panque.jpg",
+        "description":"Panque de vainilla, zanahoria o chocolate" 
+    },
+    { "id": 8, 
+        "title": "Pastel", 
+        "price": 300, 
+        "image": "../images/pastel.jpg",
+        "description":"Pastel de vainilla, cubierto de nuez y betun de queso crema" 
+    },
+    { "id": 9, 
+        "title": "Pastel de chocolate", 
+        "price": 350, 
+        "image": "../images/pastel-chocolates.jpg",
+        "description":"Pastel de chocolate, bañado con chocolate con merengues y trozos de tus chocolates favoritos" 
+    },
+    { "id": 10, 
+        "title": "Pastel decorado", 
+        "price": 400, 
+        "image": "../images/pastel-decorado.jpg",
+        "description":"Bizcocho de vainilla o chocolate, decorado con el diseño que elijas" 
+    },
+    { "id": 11, 
+        "title": "Rosca", 
+        "price": 150, 
+        "image": "../images/rosca.jpg",
+        "description":"Rosca de vainilla,chocolate o nuez, cubierto con azucar glass" 
+    },
+    { "id": 12, 
+        "title": "Tarta", 
+        "price": 220, 
+        "image": "../images/tarta.jpg",
+        "description":"Escoge la fruta que mas te guste" 
+    },
+    { "id": 13, 
+        "title": "Tarta de manzana", 
+        "price": 230, 
+        "image": "../images/tarta-manzana.jpg",
+        "description":"Es un delicioso pastel de chocolate con chispas de colores" 
+    },
+    { "id": 14, 
+        "title": "Pastel decorado", 
+        "price": 400, 
+        "image": "../images/pastel-personalizado2.jpg",
+        "description":"Bizcocho de vainilla o chocolate, decorado con el diseño que elijas" 
+    },
+    { "id": 15, 
+        "title": "Pastel decorado", 
+        "price": 400, 
+        "image": "../images/pastel-personalizado3.jpg",
+        "description":"EBizcocho de vainilla o chocolate, decorado con el diseño que elijas" 
+    }
+    ]
+  }
